@@ -219,7 +219,7 @@ Meet the brilliant minds who turned this churn dashboard into a masterpiece! �
 | Vignesh R | Data Collection, Data Cleaning, Feature Engineering | Tames wild datasets like a data whisperer. Messy CSVs? Not on his watch! 🧹 | [Vigneshravi2004](https://github.com/Vigneshravi2004) | [vigneshravi0723@gmail.com](mailto:vigneshravi0723@gmail.com) |
 | Sanjula S | Model Building, Model Evaluation, UI Design | Builds models and UIs so sleek, you’ll forget Excel exists. Multitasking queen! 💃 | [sanjula-2005](https://github.com/sanjula-2005) | [sanjuselvaraaj@gmail.com](mailto:sanjuselvaraaj@gmail.com) |
 | Metilda Evelin Angel S | Data Analytics, Predictions, Model Training | Crunches numbers and predicts churn like a fortune teller with a PhD. 🔮 | [Metilda-18](https://github.com/Metilda-18) | [metilda1804@gmail.com](mailto:metilda1804@gmail.com) |
-| Dharani G | Deployment, Interface Creation, Feature Engineering | Deploys apps and crafts interfaces so smooth, you’ll think it’s magic. 🪄 | [dharaniGaneshram-2006](https://github.com/dharaniGaneshram-2006) | [dharaniganeshram5@gmail.com](mailto:dharaniganeshram5@gmail.com) |
+| Dharani G | Deployment, Interface Creation, Feature Engineering | Deploys apps and crafts interfaces so smooth, you’ll think it’s magic. 🪄 | [dharaniGaneshram](https://github.com/dharaniGaneshram) | [dharaniganeshram5@gmail.com](mailto:dharaniganeshram5@gmail.com) |
 
 ## License 📜
 
