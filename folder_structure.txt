@@ -1,0 +1,24 @@
+customer-churn-dashboard/
+├── static/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── script.js
+│   ├── images/
+│   │   └── favicon.png
+│   │   └── favicon.ico
+├── templates/
+│   └── index.html
+├── app.py
+├── Sample_dataset1.csv
+├── Sample_dataset2.csv
+├── Sample_dataset3.csv
+├── Sample_dataset4.csv
+├── Sample_dataset5.csv
+├── venv_creator.bat
+├── webpage_server_host_runner.bat
+├── app.log
+├── folder_structure.txt
+├── requirements.txt
+├── README.md
+├── CONTRIBUTING.md
