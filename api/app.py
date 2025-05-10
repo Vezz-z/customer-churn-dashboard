@@ -22,6 +22,8 @@ import time
 import threading
 import webbrowser
 import warnings; warnings.filterwarnings('ignore')
+import logging
+logging.basicConfig(filename='/tmp/app.log', level=logging.INFO)
 
 # Configure logging
 logging.basicConfig(filename='app.log', level=logging.DEBUG, 
@@ -687,8 +689,8 @@ def open_browser():
     os.system("Press Ctrl+C to close the server.")
     os.system("echo(")
     os.system("echo For more details visit the following files: ")
-    os.system("echo # '%TEMP%\\app_output.txt' for console outputs.")
-    os.system("echo # '%CD%\\app.log' for detailed logs.")
+    os.system("echo # '%CD%\\tmp\\app_output.txt' for console outputs.")
+    os.system("echo # '%CD%\\tmp\\app.log' for detailed logs.")
     os.system("echo(")
 
 if __name__ == '__main__':

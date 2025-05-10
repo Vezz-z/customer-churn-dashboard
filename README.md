@@ -221,6 +221,12 @@ Meet the brilliant minds who turned this churn dashboard into a masterpiece! �
 | Metilda Evelin Angel S | Data Analytics, Predictions, Model Training | Crunches numbers and predicts churn like a fortune teller with a PhD. 🔮 | [Metilda-18](https://github.com/Metilda-18) | [metilda1804@gmail.com](mailto:metilda1804@gmail.com) |
 | Dharani G | Deployment, Interface Creation, Feature Engineering | Deploys apps and crafts interfaces so smooth, you’ll think it’s magic. 🪄 | [dharaniGaneshram](https://github.com/dharaniGaneshram) | [dharaniganeshram5@gmail.com](mailto:dharaniganeshram5@gmail.com) |
 
+## Deployment 🌐
+
+Deployed on Vercel: [https://customer-churn-dashboard.vercel.app](https://customer-churn-dashboard.vercel.app)
+
+[![Vercel](https://vercel.com/button)](https://vercel.com/yu6t532qa/customer-churn-dashboard)
+
 ## License 📜
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. Basically, use it, tweak it, share it—just give us a shout-out. 😊

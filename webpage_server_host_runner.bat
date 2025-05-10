@@ -32,8 +32,8 @@ if !ERRORLEVEL! neq 0 (
 echo(
 echo Once the host is started you'll be redirected to the webpage. 
 echo(
-set TEMP_OUTPUT=%TEMP%\app_output.txt
-python app.py 2>"%TEMP_OUTPUT%"
+set TEMP_OUTPUT=tmp\app_output.txt
+python api\app.py 2>"%TEMP_OUTPUT%"
 if !ERRORLEVEL! eq 0 (
     type "%TEMP_OUTPUT%"
 ) else (
