@@ -14,13 +14,13 @@ customer-churn-dashboard/
 ├── tmp/
 │   └── app.log
 ├── CONTRIBUTING.md
+├── LICENSE.txt
 ├── README.md
 ├── Sample_dataset1.csv
 ├── Sample_dataset2.csv
 ├── Sample_dataset3.csv
 ├── Sample_dataset4.csv
 ├── Sample_dataset5.csv
-├── LICENSE.txt
 ├── folder_structure.txt
 ├── requirements.txt
 ├── venv_creator.bat
