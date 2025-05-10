@@ -13,6 +13,11 @@ customer-churn-dashboard/
 │   └── index.html
 ├── tmp/
 │   └── app.log
+│   └── Sample_dataset1.csv (deployment usage)
+│   └── Sample_dataset2.csv (deployment usage)
+│   └── Sample_dataset3.csv (deployment usage)
+│   └── Sample_dataset4.csv (deployment usage)
+│   └── Sample_dataset5.csv (deployment usage)
 ├── CONTRIBUTING.md
 ├── LICENSE.txt
 ├── README.md

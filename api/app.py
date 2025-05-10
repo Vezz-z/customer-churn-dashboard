@@ -22,14 +22,15 @@ import time
 import threading
 import webbrowser
 import warnings; warnings.filterwarnings('ignore')
-import logging
-logging.basicConfig(filename='/tmp/app.log', level=logging.INFO)
 
 # Configure logging
-logging.basicConfig(filename='app.log', level=logging.DEBUG, 
+logging.basicConfig(filename='/tmp/app.log', level=logging.DEBUG, 
                     format='%(asctime)s %(levelname)s: %(message)s')
 
 app = Flask(__name__)
+
+UPLOAD_FOLDER = '/tmp'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 # Global variables
 global_data = None

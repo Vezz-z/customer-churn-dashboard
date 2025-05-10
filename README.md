@@ -28,29 +28,37 @@ Here’s how we’ve organized the chaos (you’re welcome):
 
 ```
 customer-churn-dashboard/
+├── api/
+│   └── app.py
 ├── static/
 │   ├── css/
 │   │   └── styles.css
+│   ├── images/
+│   │   └── favicon.ico
+│   │   └── favicon.png
 │   ├── js/
 │   │   └── script.js
-│   ├── images/
-│   │   └── favicon.png
-│   │   └── favicon.ico
 ├── templates/
 │   └── index.html
-├── app.py
+├── tmp/
+│   └── app.log
+│   └── Sample_dataset1.csv (deployment usage)
+│   └── Sample_dataset2.csv (deployment usage)
+│   └── Sample_dataset3.csv (deployment usage)
+│   └── Sample_dataset4.csv (deployment usage)
+│   └── Sample_dataset5.csv (deployment usage)
+├── CONTRIBUTING.md
+├── LICENSE.txt
+├── README.md
 ├── Sample_dataset1.csv
 ├── Sample_dataset2.csv
 ├── Sample_dataset3.csv
 ├── Sample_dataset4.csv
 ├── Sample_dataset5.csv
-├── venv_creator.bat
-├── webpage_server_host_runner.bat
-├── app.log
 ├── folder_structure.txt
 ├── requirements.txt
-├── README.md
-├── CONTRIBUTING.md
+├── venv_creator.bat
+├── webpage_server_host_runner.bat
 ```
 
 - **static/**: CSS, JavaScript, and favicon files to make the dashboard pretty.
